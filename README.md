@@ -1,2 +1,0 @@
-# memex
-test-one
